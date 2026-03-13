@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+spacy
+scikit-learn
+PyPDF2
+python-docx
+python-dotenv
+google-generativeai
+python-multipart
